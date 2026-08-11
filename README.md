@@ -78,7 +78,7 @@ python calculator.py
 ## Example
 
 ```text
-Welcome to Romina's Calculator!
+Welcome to my first Python Calculator!
 
 enter the first number: 12
 enter the second number: 4
