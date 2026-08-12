@@ -78,11 +78,9 @@ python calculator.py
 ## Example
 
 ```text
-<<<<<<< HEAD
 Welcome to my first Python Calculator!
 =======
 Welcome to Romina's Calculator!
->>>>>>> ce132cc (Cerate calculator V2)
 
 enter the first number: 12
 enter the second number: 4
